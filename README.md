@@ -12,7 +12,7 @@ Two models were trained and evaluated to compare and see which model is more app
 ### Process
 1.	Explore dataset to get a clear understanding of the relationships between variables and how they affect the outcome variable. 
 2.	Start data pre-processing. Clean the data by checking for null/missing values, duplicates, and outliers.
-3.	Start feature analysis – I created a feature that combines age and pregnancies, I wanted to look at how geriatric pregnancies could potentially affect a patient’s likelihood of getting diabetes.
+3.	Start feature engineering – I created a feature that combines age and pregnancies, I wanted to look at how geriatric pregnancies could potentially affect a patient’s likelihood of getting diabetes.
 4.	Train the models. 
 5.	Evaluate the models.
 
