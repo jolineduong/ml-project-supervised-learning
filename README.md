@@ -1,4 +1,4 @@
-# machine_learning_project-supervised-learning
+# Supervised Machine Learning Project
 
 ## Project Outcomes
 For this project, I created a supervised learning model that will predict diabetes in a patient using a diabetes statistics dataset. The dataset included predicting variables (pregnancy, age, insulin, BMI, skin thickness, glucose, blood pressure, and pedigree function), and the outcome (diabetes). 
